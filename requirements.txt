@@ -1,3 +1,12 @@
-datasets
-transformers
-torch
+datasets==2.15.0
+transformers==4.35.2
+torch==2.1.1
+langchain==0.0.344
+wikipedia==1.4.0 
+google-search-results==2.4.2 
+better-profanity==0.7.0 
+sqlalchemy==2.0.15
+pyspark==3.5.0
+mlflow==2.9.1
+torchvision==0.16.1
+delta-spark==3.0.0
